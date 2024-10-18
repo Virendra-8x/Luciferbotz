@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://ibb.co/b3snz0X" alt="luciferbotz logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Luciferbotz
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+lucifer+Botz!)
 </p>
 
 ## Main Feature 
@@ -32,9 +32,9 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/ELprofessorbackup'>Update Channel</a> For More Update Regarding Repo.</b>
 
-### How To Deploy : [Video Tutorial](https://youtu.be/J5tiWdc_AWM)
+### join on TG : [backup channel](https://t.me/ELprofessorbackup)
 
 ## Commands
 ```
@@ -199,7 +199,7 @@ Edit info.py with variables as given below then run bot
  
 * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01)
 
-<b>[Note To A So Called Dev](https://telegram.dog/vj_botz): 
+<b>[backup](https://telegram.dog/ELprofessorbackup): 
 
 Fork The Repo And Edit As Per Your Needs.</b>
 
